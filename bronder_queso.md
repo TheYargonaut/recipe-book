@@ -6,7 +6,7 @@
 ## Ingredients:
 - $\frac{1}{2}$ large onion
 - 2 tablespoons canola oil
-- 1 lb plain sausage meat (optional)
+- 1 lb plain or hot sausage meat (optional)
 - 4 cans "Campbell Fiesta Nacho Cheese Soup" or "Cheddar Cheese Soup"
 - 1 can Rotel Diced Tomatoes & Green Chilies (mild or hot, to taste)
 - 15 oz sharp Cheddar Cheese, shredded
