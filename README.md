@@ -22,6 +22,7 @@
 - [Flour Tortillas](flour_tortillas.md)
 - [Frappuccino](frappuccino.md)
 - [French Onion Soup](french_onion_soup.md)
+- [Garlic Butter Keto Bread](garlic_butter_keto_bread.md)
 - [Granola Bars](granola_bars.md)
 - [Hard Tack](hard_tack.md)
 - [Meringue](meringue.md)
