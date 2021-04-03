@@ -11,9 +11,9 @@
 - $\frac{1}{4}$ Cup Baking Powder
 - 3 Eggs
 - 2 Tablespoons Olive Oil
-- $1\frac{1}{2}$ Teaspoon Garlic Powder
-- $1\frac{1}{2}$ Teaspoon Onion Powder
-- $1\frac{1}{2}$ Teaspoon Italian Seasoning
+- $\frac{1}{2}$ Teaspoon Garlic Powder
+- $\frac{1}{2}$ Teaspoon Onion Powder
+- $\frac{1}{2}$ Teaspoon Italian Seasoning
 - Water as necessary
 - Toppings
 
