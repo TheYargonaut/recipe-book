@@ -9,6 +9,7 @@
 - [Bronder Queso](bronder_queso.md)
 - [Burger Patties](burger_patties.md)
 - [Cake Balls](cake_balls.md)
+- [Chocolat Buttermilk Cake](chocolate_buttermilk_cake.md)
 - [Chocolate Chip Cookie Frosting](chocolate_chip_cookie_frosting.md)
 - [Chocolate Chip Cookies](chocolate_chip_cookies.md)
 - [Chocolate Frosting](chocolate_frosting.md)
