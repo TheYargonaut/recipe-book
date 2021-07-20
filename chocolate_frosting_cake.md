@@ -8,7 +8,7 @@
 - $\frac{1}{2}$ Cup Butter
 - 2 Tablespoons Milk
 - 1 Tablespoon Vanilla Extract
-- $\frac{1}{4}$ Cups Powdered Sugar, Sifted (1 Pound)
+- 4$\frac{1}{4}$ Cups Powdered Sugar, Sifted (1 Pound)
 
 ## Steps:
 1. In a medium saucepan, combine cocoa, butter, and milk.
