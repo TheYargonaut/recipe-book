@@ -8,7 +8,7 @@
 - $\frac{1}{4}$ Cup Butter
 - 3 Tablespoons Buttermilk
 - $\frac{1}{2}$ Teaspoon Vanilla Extract
-- $\frac{1}{4}$ Cups Powdered Sugar, Sifted (1 Pound)
+- 2$\frac{1}{4}$ Cups Powdered Sugar
 
 ## Steps:
 1. In a medium saucepan, combine cocoa, butter, and buttermilk.
