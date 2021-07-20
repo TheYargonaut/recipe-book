@@ -13,6 +13,7 @@
 - [Chocolate Chip Cookie Frosting](chocolate_chip_cookie_frosting.md)
 - [Chocolate Chip Cookies](chocolate_chip_cookies.md)
 - [Chocolate Frosting](chocolate_frosting.md)
+- [Chocolate Frosting (Cake)](chocolate_frosting_cake.md)
 - [Chocolate Pie](chocolate_pie.md)
 - [Chocolate Syrup](chocolate_syrup.md)
 - [Ciabatta](ciabatta.md)
