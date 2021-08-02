@@ -1,5 +1,5 @@
 # Recipe Database
----
+
 ## Master Index
 
 - [Apple Bundles](apple_bundles.md)
@@ -30,6 +30,7 @@
 - [Granola Bars](granola_bars.md)
 - [Hard Tack](hard_tack.md)
 - [Meringue](meringue.md)
+- [Lentil Soup](lentil_soup.md)
 - [No-Knead Bread](no_knead_bread.md)
 - [No-Yeast Pizza Dough](no_yeast_pizza_dough.md)
 - [Pancakes](pancakes.md)
