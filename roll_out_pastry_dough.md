@@ -1,7 +1,7 @@
 # Template
 
 **Type:** Ingredient
-**Makes:** 1 9-inch Pie Crust
+**Makes:** 2 1-sided 9-inch Pie Crusts
 
 ## Ingredients:
 - 4 Cups Flour
