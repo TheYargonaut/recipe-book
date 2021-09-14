@@ -43,6 +43,7 @@
 - [Roasted Cabbage Wedges](roasted_cabbage_wedges.md)
 - [Roll-out Pastry Dough](roll_out_pastry_dough.md)
 - [Sandwich Bread](sandwich_bread.md)
+- [Snickredoodles](snickerdoodles.md)
 - [Soft Breadsticks](soft_breadsticks.md)
 - [Spice Cookies](spice_cookies.md)
 - [Strawberry Cake](strawberry_cake.md)
