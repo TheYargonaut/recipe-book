@@ -28,4 +28,4 @@
 11. To make flatter snickerdoodles, press down in the center of the ball before placing in the oven
 12. Bake for 9-11 minutes
 
-**Source:** America's Test Kitchen
+**Source:** [Modern Honey](https://www.modernhoney.com/the-best-snickerdoodle-cookie-recipe/)
