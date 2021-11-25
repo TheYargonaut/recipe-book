@@ -32,6 +32,7 @@
 - [Meringue](meringue.md)
 - [Lemonade](lemonade.md)
 - [Lentil Soup](lentil_soup.md)
+- [Monkey Bread](monkey_bread.md)
 - [No-Knead Bread](no_knead_bread.md)
 - [No-Yeast Pizza Dough](no_yeast_pizza_dough.md)
 - [Pancakes](pancakes.md)
