@@ -1,4 +1,4 @@
-#Green Bean Casserole
+# Green Bean Casserole
 
 **Type:** Side
 **Serves:** 6
