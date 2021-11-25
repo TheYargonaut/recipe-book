@@ -4,7 +4,7 @@
 **Serves:** 6
 
 ## Ingredients:
-- lb Cooked Green Beans
+- 1lb Cooked Green Beans
 - 1 10.5oz Can Condensed Cream of Mushroom Soup
 - $1\frac{1}{2}$ Cups Fried Onion Pieces
 
