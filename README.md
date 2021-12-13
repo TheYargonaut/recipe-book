@@ -1,5 +1,9 @@
 # Recipe Database
 
+## Viewing
+
+These recipes use Markdown with LaTeX math notation. For viewing on GitHub, recommend the MathJax plugin for appropriate rendering.
+
 ## Master Index
 
 - [Apple Bundles](apple_bundles.md)
