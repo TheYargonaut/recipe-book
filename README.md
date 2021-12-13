@@ -30,6 +30,7 @@
 - [Granola Bars](granola_bars.md)
 - [Green Bean Casserole](green_bean_casserole.md)
 - [Hard Tack](hard_tack.md)
+- [Hot Chocolate](hot_chocolate.md)
 - [Meringue](meringue.md)
 - [Lemonade](lemonade.md)
 - [Lentil Soup](lentil_soup.md)
