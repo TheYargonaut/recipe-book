@@ -1,6 +1,6 @@
 # Chai Spice Mix
 
-**Type:** Ingredient
+**Type:** Ingredient\
 **Makes:** $6\frac{1}{2}$ Teaspoons
 
 ## Ingredients:
