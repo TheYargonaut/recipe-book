@@ -1,6 +1,6 @@
 # Egg Nog
 
-**Type:** Beverage
+**Type:** Beverage\
 **Serves:** 6
 
 ## Ingredients:
