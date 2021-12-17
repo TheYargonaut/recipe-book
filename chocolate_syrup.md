@@ -1,6 +1,6 @@
-# Chocolate Pie
+# Chocolate Syrup
 
-**Type:** Condiment
+**Type:** Condiment\
 **Makes:** 2 cups
 
 ## Ingredients:
