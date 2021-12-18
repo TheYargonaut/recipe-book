@@ -7,6 +7,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 ## Master Index
 
 - [Apple Bundles](apple_bundles.md)
+- [Apple Streusel](apple_struesel.md)
 - [Banana Pancakes](banana_pancakes.md)
 - [Best Brownies](best_brownies.md)
 - [Broccoli Cheese Soup](broccoli_cheese_soup.md)
