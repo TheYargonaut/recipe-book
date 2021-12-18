@@ -1,6 +1,6 @@
 # Best Brownies
 
-**Type:** Dessert
+**Type:** Dessert\
 **Serves:** 16
 
 ## Ingredients:
