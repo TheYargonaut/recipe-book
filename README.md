@@ -39,6 +39,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Hard Tack](hard_tack.md)
 - [Hot Chocolate](hot_chocolate.md)
 - [Meringue](meringue.md)
+- [Mexican Soup](mexican_soup.md)
 - [Lemonade](lemonade.md)
 - [Lentil Soup](lentil_soup.md)
 - [Monkey Bread](monkey_bread.md)
