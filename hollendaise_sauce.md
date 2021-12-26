@@ -15,4 +15,4 @@
 2. Add all other ingredients to a blender and blitz together for 10 seconds.
 3. Remove cover from blender, and while running, slowly add simmering butter.
 
-**Source:** Original recipe by Viney R. Carter, modified by Susan Bronder and Mason Rumuly
+**Source:** Original recipe from Binging with Babish, modified by Mason Rumuly
