@@ -37,6 +37,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Granola Bars](granola_bars.md)
 - [Green Bean Casserole](green_bean_casserole.md)
 - [Hard Tack](hard_tack.md)
+- [Hollendaise Sauce](hollendaise_sauce.md)
 - [Hot Chocolate](hot_chocolate.md)
 - [Meringue](meringue.md)
 - [Mexican Soup](mexican_soup.md)
