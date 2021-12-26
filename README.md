@@ -28,6 +28,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Cinnamon Roll Icing Cream Cheese](cinnamon_roll_icing_cream_cheese.md)
 - [Cinnamon Roll Icing](cinnamon_roll_icing.md)
 - [Cinnamon Rolls](cinnamon_rolls.md)
+- [Crazy Bread](crazy_bread.md)
 - [Diet of Worms](diet_of_worms.md)
 - [Egg Nog](egg_nog.md)
 - [Flour Tortillas](flour_tortillas.md)
