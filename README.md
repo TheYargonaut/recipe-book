@@ -15,6 +15,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Burger Patties](burger_patties.md)
 - [Cake Balls](cake_balls.md)
 - [Chai Spice Mix](chai_spice_mix.md)
+- [Chicken Salad](chicken_salad.md)
 - [Chocolate Buttermilk Cake](chocolate_buttermilk_cake.md)
 - [Chocolate Buttermilk Frosting](chocolate_buttermilk_frosting.md)
 - [Chocolate Chip Cookie Frosting](chocolate_chip_cookie_frosting.md)
