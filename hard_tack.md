@@ -1,6 +1,6 @@
 # Hard Tack
 
-**Type:** Snack
+**Type:** Snack\
 **Serves:** 6
 
 ## Ingredients:
