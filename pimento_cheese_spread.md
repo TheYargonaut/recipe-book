@@ -1,12 +1,12 @@
 # Pimento Cheese Spread
 
 **Type:** Ingredient, Snack
-**Serves:** 6
+**Serves:** 12
 
 ## Ingredients:
 - 1 lb Shredded Cheddar Cheese
-- $\frac{1}{4}$ Cup Jarred Pimentos
-- 1 Tablespoon Mayonnaise
+- $\frac{1}{4}$ Cup Jarred Pimentos, drained
+- 2 Tablespoons Mayonnaise
 - Salt and Pepper (to taste, about a pinch)
 
 
