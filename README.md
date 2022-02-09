@@ -55,6 +55,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Press-in Pie Crust](press_in_pie_crust.md)
 - [Pumpkin Muffins](pumpkin_muffins.md)
 - [Roasted Cabbage Wedges](roasted_cabbage_wedges.md)
+- [Roasted Cauliflower](roasted_cauliflower.md)
 - [Roll-out Pastry Dough](roll_out_pastry_dough.md)
 - [Sandwich Bread](sandwich_bread.md)
 - [Snickredoodles](snickerdoodles.md)
