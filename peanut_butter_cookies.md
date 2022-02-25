@@ -1,6 +1,6 @@
 # Peanut Butter Cookies
 
-**Type:** Ingredient
+**Type:** Ingredient\
 **Serves:** 32
 
 ## Ingredients:
