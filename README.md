@@ -66,4 +66,5 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Strawberry Cake](strawberry_cake.md)
 - [Strawberry Frosting](strawberry_frosting.md)
 - [Sweet Potato Fry Seasoning](sweet_potato_fry_seasoning.md)
+- [White Cake Mix](white_cake_mix.md)
 - [Yeast Rolls](yeast_rolls.md)
