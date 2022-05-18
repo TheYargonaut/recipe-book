@@ -1,16 +1,15 @@
 # Strawberry Cake
 
-**Type:** Dessert
+**Type:** Dessert\
 **Serves:** 12
 
 ## Ingredients:
 - 1 Package White Cake Mix
-- 3 Tablespoons Flour
-- 3 Eggs (room temperature)
+- 1 (3 oz.) Package Strawberry Gelatin
 - Cup Vegetable Cooking Oil
 - $\frac{3}{4}$ Cup Water
-- 1 (3 oz.) Package Strawberry Gelatin
 - $\frac{1}{2}$ Cup Sliced Strawberries (Frozen or Fresh)
+- 3 Eggs (room temperature)
 - Frosting (optional)
 
 ## Steps:
@@ -22,4 +21,4 @@
 6. Drizzle frosting over warm cake, and decorate with fresh strawberries.
 
 
-**Source:** Original recipe from Imperial Sugar, modified by Susan Bronder
+**Source:** Original recipe from Imperial Sugar, modified by Susan Bronder and Mason Rumuly
