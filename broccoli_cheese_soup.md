@@ -1,6 +1,6 @@
 # Broccoli Cheese Soup
 
-**Type:** Entrée, Side
+**Type:** Entrée, Side\
 **Serves:** 4
 
 ## Ingredients:
