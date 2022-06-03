@@ -14,6 +14,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Bronder Queso](bronder_queso.md)
 - [Burger Patties](burger_patties.md)
 - [Cake Balls](cake_balls.md)
+- [Carbonara](carbonara.md)
 - [Carrot Cake](carrot_cake.md)
 - [Chai Spice Mix](chai_spice_mix.md)
 - [Chicken Salad](chicken_salad.md)
