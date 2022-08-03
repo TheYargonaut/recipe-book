@@ -24,4 +24,7 @@
 9. Shape into loaves or rolls and allow to rise another hour.
 10. Bake for 45 to 60 Minutes
 
+## Variant:
+Squaw Bread: Prepare as rolls, then stretch thin like pizza dough. Deep fry in vegetable oil or lard.
+
 **Source:** Grandma Anna Laura Dulin Dykes, modified by Diana Rumuly and Mason Rumuly
