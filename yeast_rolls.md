@@ -1,6 +1,6 @@
 # Yeast Rolls
 
-**Type:** Side
+**Type:** Side\
 **Serves:** 6
 
 ## Ingredients:
