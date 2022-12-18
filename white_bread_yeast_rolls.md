@@ -1,28 +1,29 @@
 # White Bread Yeast Rolls
 
 **Type:** Side, Ingredient\
-**Serves:** 6
+**Makes:** 1 Loaf or 12 Rolls
 
 ## Ingredients:
-- 2 Cups Milk
-- $\frac{1}{4}$ Cup Sugar
-- 4 Teaspoons Salt
-- 2 Tablespoons Shortening
-- $2\frac{1}{4}$ Cups Water
-- 4 Cups Flour
-- $2\frac{1}{4}$ Teaspoons Dry Yeast
+- 1 Cup Milk
+- 2 Tablespoons Sugar
+- 2 Teaspoons Salt
+- 1 Tablespoon Shortening
+- 1 Cup and 2 Tablespoons Water
+- 6 Cups Flour
+- 1 Teaspoon Active Dry Yeast
 
 ## Steps:
 1. Scald milk.
-2. In large bowl, combine hot milk with sugar, salt, shortening, and 2 cups of water.
-3. Stir until melted and cool to lukewarm.
-4. Add flour and mix well.
-5. Dissolve yeast  in $\frac{1}{4}$ cup of lukewarm water and add to mixture.
-6. Add flour as needed to keep from sticking to board.
-7. Let rise until double in bulk, about an hour, folding after 30 minutes.
-8. Shape into loaves or rolls and allow to rise another hour.
-9. Bake for 45 to 60 Minutes
+2. In large bowl, combine hot milk with sugar, salt, shortening, and 1 cup water.
+3. Stir until shortning is melted.
+4. Cool to lukewarm.
+5. Add flour and mix well.
+6. Dissolve yeast in 2 Tablespoons of lukewarm water and add to mixture.
+7. Add flour, more as needed to keep from sticking to board.
+8. Let rise until double in bulk, about an hour, folding after 30 minutes.
+9. Shape into loaf or rolls and allow to rise another hour.
 10. Preheat oven to 380$^\circ$.
+11. Bake for 45 to 60 Minutes
 
 ## Variant:
 Squaw Bread: Prepare as rolls, then stretch thin like pizza dough. Deep fry in vegetable oil or lard.
