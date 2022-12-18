@@ -6,6 +6,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 
 ## Master Index
 
+- [Almond Chocolate Muffins](almond_chocolat_muffins.md)
 - [Apple Bundles](apple_bundles.md)
 - [Apple Streusel](apple_streusel.md)
 - [Applesauce Muffins](applesauce_muffins.md)
@@ -18,6 +19,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Carbonara](carbonara.md)
 - [Carrot Cake](carrot_cake.md)
 - [Chai Spice Mix](chai_spice_mix.md)
+- [Chicken And Dumplings](chicken_and_dumplings.md)
 - [Chicken Salad](chicken_salad.md)
 - [Chocolate Buttermilk Cake](chocolate_buttermilk_cake.md)
 - [Chocolate Buttermilk Frosting](chocolate_buttermilk_frosting.md)
@@ -67,6 +69,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Snickredoodles](snickerdoodles.md)
 - [Soft Breadsticks](soft_breadsticks.md)
 - [Spice Cookies](spice_cookies.md)
+- [Stovetop Popcorn](stovetop_popcorn.md)
 - [Strawberry Cake](strawberry_cake.md)
 - [Strawberry Frosting](strawberry_frosting.md)
 - [Sweet Potato Fry Seasoning](sweet_potato_fry_seasoning.md)
