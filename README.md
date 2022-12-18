@@ -6,7 +6,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 
 ## Master Index
 
-- [Almond Chocolate Muffins](almond_chocolat_muffins.md)
+- [Almond Chocolate Muffins](almond_chocolate_muffins.md)
 - [Apple Bundles](apple_bundles.md)
 - [Apple Streusel](apple_streusel.md)
 - [Applesauce Muffins](applesauce_muffins.md)
