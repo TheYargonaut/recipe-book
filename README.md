@@ -50,6 +50,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Hollendaise Sauce](hollendaise_sauce.md)
 - [Hot Chocolate](hot_chocolate.md)
 - [Laynes Sauce](laynes_sauce.md)
+- [Lemon Curd](lemon_curd.md)
 - [Lemonade](lemonade.md)
 - [Lentil Soup](lentil_soup.md)
 - [Meringue](meringue.md)
