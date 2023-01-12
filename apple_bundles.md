@@ -1,6 +1,6 @@
 # Apple Bundles
 
-**Type:** Desert
+**Type:** Desert\
 **Serves:** 6
 
 ## Ingredients:
