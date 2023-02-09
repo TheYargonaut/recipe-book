@@ -58,6 +58,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Monkey Bread](monkey_bread.md)
 - [No-Knead Bread](no_knead_bread.md)
 - [No-Yeast Pizza Dough](no_yeast_pizza_dough.md)
+- [Nut Butter Chocolate Chip Cookies](nut_butter_chocolate_chip_cookies.md)
 - [Pancakes](pancakes.md)
 - [Peanut Butter Cookies](peanut_butter_cookies.md)
 - [Pimento Cheese Spread](pimento_cheese_spread.md)
