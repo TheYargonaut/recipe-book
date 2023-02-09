@@ -4,12 +4,12 @@
 **Makes:** 24
 
 ## Ingredients:
-- 2 Cups Peanut Butter
 - 1 Cup Fine-Grind Almond Flour
-- $\frac{2}{3}$ Sugar
-- 1 Egg
-- $\frac{1}{2}$ Teaspoon Vanilla Extract
 - $\frac{1}{8}$ Teaspoon Salt
+- 2 Cups Peanut Butter
+- $\frac{2}{3}$ Cup Sugar
+- $\frac{1}{2}$ Teaspoon Vanilla Extract
+- 1 Egg
 - 1 Cup Chocolate Chips
 
 ## Steps:
