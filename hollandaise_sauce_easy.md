@@ -1,4 +1,4 @@
-# Hollandaise Sauce
+# Hollandaise Sauce Easy
 
 **Type:** Condiment\
 **Makes:** 4 Servings
