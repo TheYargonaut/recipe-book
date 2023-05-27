@@ -49,6 +49,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Green Bean Casserole](green_bean_casserole.md)
 - [Hard Tack](hard_tack.md)
 - [Hollandaise Sauce](hollandaise_sauce.md)
+- [Hollandaise Sauce Easy](hollandaise_sauce_easy.md)
 - [Hot Chocolate](hot_chocolate.md)
 - [Jam Tartlets](jam_tartlets.md)
 - [Laynes Sauce](laynes_sauce.md)
