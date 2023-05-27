@@ -1,4 +1,4 @@
-# Hollendaise Sauce
+# Hollandaise Sauce
 
 **Type:** Condiment\
 **Serves:** 6
