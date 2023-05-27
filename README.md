@@ -38,6 +38,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Crazy Bread](crazy_bread.md)
 - [Diet of Worms](diet_of_worms.md)
 - [Double Chocolate Chip Cookies](double_chocolate_chip_cookies.md)
+- [Egg Drop Soup](egg_drop_soup.md)
 - [Egg Nog](egg_nog.md)
 - [Ermine Icing](ermine_icing.md)
 - [Flour Tortillas](flour_tortillas.md)
