@@ -50,6 +50,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Hard Tack](hard_tack.md)
 - [Hollendaise Sauce](hollendaise_sauce.md)
 - [Hot Chocolate](hot_chocolate.md)
+- [Jam Tartlets](jam_tartlets.md)
 - [Laynes Sauce](laynes_sauce.md)
 - [Lemon Curd](lemon_curd.md)
 - [Lemonade](lemonade.md)
