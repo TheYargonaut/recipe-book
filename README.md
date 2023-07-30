@@ -28,6 +28,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Chocolate Chip Cookies](chocolate_chip_cookies.md)
 - [Chocolate Frosting](chocolate_frosting.md)
 - [Chocolate Frosting (Cake)](chocolate_frosting_cake.md)
+- [Chocolate Ice Cream](chocolate_ice_cream.md)
 - [Chocolate Pie](chocolate_pie.md)
 - [Chocolate Syrup](chocolate_syrup.md)
 - [Ciabatta](ciabatta.md)
