@@ -12,6 +12,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Applesauce Muffins](applesauce_muffins.md)
 - [Banana Pancakes](banana_pancakes.md)
 - [Best Brownies](best_brownies.md)
+- [Biscuits and Gravy](biscuits_and_gravy.md)
 - [Broccoli Cheese Soup](broccoli_cheese_soup.md)
 - [Bronder Queso](bronder_queso.md)
 - [Burger Patties](burger_patties.md)
