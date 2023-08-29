@@ -1,24 +1,24 @@
 # Applesauce Muffins
 
 **Type:** Breakfast, Side\
-**Serves:** 24
+**Serves:** 12
 
 ## Ingredients:
-- 1 Cup Softened Butter
-- 2 Cups Sugar
-- 2 Eggs
-- 1 Teaspoon Vanilla Extract
-- 2 Cups Applesauce
-- 4 Cups All-Purpose Flour
-- 1 Teaspoon Baking Soda
-- 1 Teaspoon Cinnamon
-- 1 Teaspoon Allspice
-- $\frac{1}{4}$ Teaspoon Ground Cloves
+- $\frac{1}{2}$ Cup Softened Butter
+- 1 Cup Sugar
+- 1 Egg
+- $\frac{1}{2}$ Teaspoon Vanilla Extract
+- 1 Cup Applesauce
+- 2 Cups All-Purpose Flour (308g)
+- $\frac{1}{2}$ Teaspoon Baking Soda
+- $\frac{1}{2}$ Teaspoon Cinnamon
+- $\frac{1}{2}$ Teaspoon Allspice
+- $\frac{1}{8}$ Teaspoon Ground Cloves
 
 ## Steps:
 1. Preheat oven to 350$^\circ$F.
 2. Cream together butter and sugar 5-7 minutes or until fluffy.
-3. Beat in egs and vanilla.
+3. Beat in egg and vanilla.
 4. Stir in applesauce.
 5. In separate bowl, combine dry ingredients.
 6. Fold together wet and dry mixtures.
