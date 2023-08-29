@@ -7,13 +7,13 @@
 - $\frac{1}{2}$ Cup Softened Butter
 - 1 Cup Sugar
 - 1 Egg
-- $\frac{1}{2}$ Teaspoon Vanilla Extract
+- $\frac{1}{2}$ Teaspoon Vanilla Extract (2g)
 - 1 Cup Applesauce
 - 2 Cups All-Purpose Flour (308g)
-- $\frac{1}{2}$ Teaspoon Baking Soda
-- $\frac{1}{2}$ Teaspoon Cinnamon
-- $\frac{1}{2}$ Teaspoon Allspice
-- $\frac{1}{8}$ Teaspoon Ground Cloves
+- $\frac{1}{2}$ Teaspoon Baking Soda (2g)
+- $\frac{1}{2}$ Teaspoon Cinnamon (1g)
+- $\frac{1}{2}$ Teaspoon Allspice (1g)
+- $\frac{1}{8}$ Teaspoon Ground Cloves (1g)
 
 ## Steps:
 1. Preheat oven to 350$^\circ$F.
