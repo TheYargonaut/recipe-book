@@ -7,7 +7,7 @@
 - $2\frac{1}{2}$ Cups Finely Ground, Blanched Almond Flour
 - $\frac{1}{2}$ Cup All-Purpose Flour
 - $\frac{3}{4}$ Cup Cocoa Powder
-- 1 Teaspoon Baking Soada
+- 1 Teaspoon Baking Soda
 - $\frac{1}{4}$ Teaspoon Salt
 - $\frac{1}{4}$ Cup Water
 - $\frac{1}{2}$ Cup Milk
