@@ -68,6 +68,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Nut Butter Chocolate Chip Cookies](nut_butter_chocolate_chip_cookies.md)
 - [Pancake Mix](pancake_mix.md)
 - [Pancakes](pancakes.md)
+- [Parmesan Garlic Sauce](parmesan_garlic_sauce.md)
 - [Peanut Butter Cookies](peanut_butter_cookies.md)
 - [Pimento Cheese Spread](pimento_cheese_spread.md)
 - [Pizza Napoletana](pizza_napoletana.md)
