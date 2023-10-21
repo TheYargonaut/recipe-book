@@ -16,4 +16,4 @@
 4. Cook on high for 2 to $2\frac{1}{2}$ hours.
 5. Add butter and fluff with fork.
 
-**Source:** Original from Demeter at Beaming Baker, modified by Mason Rumuly
+**Source:** Original from Meghan Splawn at thekitchn.com, modified by Mason Rumuly
