@@ -80,6 +80,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Sandwich Bread](sandwich_bread.md)
 - [Sandwich Cookie Filling](sandwich_cookie_filling.md)
 - [Schmear](schmear.md)
+- [Simple Custard](simple_custard.md)
 - [Snickredoodles](snickerdoodles.md)
 - [Soft Breadsticks](soft_breadsticks.md)
 - [Spice Cookies](spice_cookies.md)
