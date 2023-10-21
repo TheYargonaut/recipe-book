@@ -40,6 +40,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Cinnamon Swirl Bread](cinnamon_swirl_bread.md)
 - [Classic Pound Cake](classic_pound_cake.md)
 - [Crazy Bread](crazy_bread.md)
+- [Crockpot Brown Rice](crockpot_brown_rice.md)
 - [Diet of Worms](diet_of_worms.md)
 - [Double Chocolate Chip Cookies](double_chocolate_chip_cookies.md)
 - [Egg Drop Soup](egg_drop_soup.md)
