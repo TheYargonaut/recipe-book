@@ -43,6 +43,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Crockpot Brown Rice](crockpot_brown_rice.md)
 - [Diet of Worms](diet_of_worms.md)
 - [Double Chocolate Chip Cookies](double_chocolate_chip_cookies.md)
+- [Easy Bavarian Cream](easy_bavarian_cream.md)
 - [Egg Drop Soup](egg_drop_soup.md)
 - [Egg Nog](egg_nog.md)
 - [Ermine Icing](ermine_icing.md)
