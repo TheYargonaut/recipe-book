@@ -4,13 +4,15 @@
 **Makes:** 2 cups
 
 ## Ingredients:
-- $1\frac12$ cups water
-- $1\frac12$ cups sugar
-- 1 cup cocoa powder
-- $\frac18$ teaspoon (pinch) salt
-- 1 teaspoon vanilla extract
+- $\frac{3}{4}$ Cup Cocoa Powder (76g)
+- 1 Cup Sugar (210g)
+- 1 Cup Water 
+- $\frac{1}{8}$ Teaspoon Kosher Salt
+- 1 Teaspoon Vanilla Extract
 
 ## Steps:
-1. Combine water and sugar in saucepan over medum heat and stir constantly until simmering and sugar is completely dissolved.
-2. Whisk in cocoa powder and salt.
-3. Remove from heat and stir in vanilla.
+1. Whisk together cocoa powder, sugar, and water.
+2. Bring to simmer over medium heat, then lower the heat.
+3. Simmer for 3 minutes stirring constantly.
+4. Remove from heat.
+5. Whisk in salt and vanilla.
