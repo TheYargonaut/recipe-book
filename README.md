@@ -38,6 +38,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Cinnamon Roll Icing](cinnamon_roll_icing.md)
 - [Cinnamon Rolls](cinnamon_rolls.md)
 - [Cinnamon Swirl Bread](cinnamon_swirl_bread.md)
+- [Classic Pound Cake](classic_pound_cake.md)
 - [Crazy Bread](crazy_bread.md)
 - [Diet of Worms](diet_of_worms.md)
 - [Double Chocolate Chip Cookies](double_chocolate_chip_cookies.md)
