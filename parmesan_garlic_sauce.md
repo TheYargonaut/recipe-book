@@ -4,13 +4,12 @@
 **Makes:** $1\frac{1}{2}$ Cup
 
 ## Ingredients:
+- 3 Tablespoons Salted Butter
+- 1 Tablespoon Grated Garlic
+- $\frac{1}{8}$ Teaspoon Red Pepper Flakes (Optional)
 - 1 Cup Heavy Cream
 - $\frac{1}{2}$ Cup Grated Parmesan
-- 3 Tablespoons Salted Butter
-- 1 Tablespoon Olive Oil
-- 1 Tablespoon Grated Garlic
 - $\frac{1}{8}$ Teaspoon Ground Black Pepper
-- $\frac{1}{8}$ Teaspoon Red Pepper Flakes (Optional)
 - Salt to taste (Optional)
 
 ## Steps:
