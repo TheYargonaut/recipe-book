@@ -8,7 +8,7 @@
 - 1 Cup Sugar
 - 1 Teaspoon Vanilla
 - 4 Eggs
-- $1\frac{2}{3}$ Cup All-Purpose Flour (1 lb)
+- $1\frac{2}{3}$ Cup All-Purpose Flour (0.5 lb)
 
 ## Steps:
 1. Preheat oven to 325$^\circ$F.
