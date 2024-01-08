@@ -4,12 +4,12 @@
 **Serves:** 12
 
 ## Ingredients:
-- $4\frac{1}{2}$ Cups All-Purpose Flour
-- $\frac{3}{4}$ Cup Powdered Milk
-- $\frac{1}{3}$ Cup Sugar
-- 2 Tablespoons Baking Powder
-- 1 Tablespoon Baking Soda
-- $1\frac{1}{2}$ Teaspoon Salt
+- $4\frac{1}{2}$ Cups All-Purpose Flour (691g)
+- $\frac{3}{4}$ Cup Powdered Milk (79g)
+- $\frac{1}{3}$ Cup Sugar (72g)
+- 2 Tablespoons Baking Powder (26g)
+- 1 Tablespoon Baking Soda (15g)
+- $1\frac{1}{2}$ Teaspoon Salt (13g)
 
 
 ## Steps:
