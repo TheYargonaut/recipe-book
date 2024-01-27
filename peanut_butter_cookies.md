@@ -5,15 +5,14 @@
 
 ## Ingredients:
 - 1 Cup Butter
-- 1 Cup Sugar
-- $\frac{3}{4}$ Cup Brown Sugar
+- 1 Cup Sugar (198g)
+- $\frac{3}{4}$ Cup Brown Sugar (160g)
 - 2 Eggs
 - 2 Teaspoons Vanilla Extract
-- 1 Cup Peanut Butter
-- 3 Cups Flour
+- 1 Cup Peanut Butter (135g)
+- 3 Cups Flour (360g)
 - 1 Teaspoon Baking Powder
 - 1 Teaspoon Baking Soda
-- $\frac{1}{3}$ Cup Sugar
 
 ## Steps:
 1. Cream butter and sugar together.
