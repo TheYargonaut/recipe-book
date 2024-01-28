@@ -4,7 +4,7 @@
 **Makes:** $1\frac{1}{2}$ Cup
 
 ## Ingredients:
-- $2\frac{1}{2}$ Cups Powdered Sugar
+- $2\frac{1}{2}$ Cups Powdered Sugar (284g)
 - $\frac{1}{2}$ Cup Shortening
 - Pinch of Salt
 - 2 Teaspoons Cold Water
