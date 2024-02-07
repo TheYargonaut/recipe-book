@@ -4,11 +4,11 @@
 **Serves:** 4
 
 ## Ingredients:
-- $\frac{1}{2}$ Cup Sugar
-- $\frac{1}{4}$ Cup Cocoa Powder
+- $\frac{1}{2}$ Cup Sugar (99g)
+- $\frac{1}{4}$ Cup Cocoa Powder (21g)
 - Pinch Salt
-- $\frac{1}{3}$ Cup Water
-- 4 Cups Milk
+- $\frac{1}{3}$ Cup Water (76g)
+- 4 Cups Milk (908g)
 - $\frac{3}{4}$ Teaspoon Vanilla Extract
 ## Optional:
 - $\frac{1}{4}$-$\frac{1}{2}$ Teaspoon Cinnamon
