@@ -4,11 +4,11 @@
 **Serves:** 16
 
 ## Ingredients:
-- 3 cups flour
-- 1 teaspoon salt
-- 1 teaspoon baking powder
-- $\frac{1}{3}$ cup vegetable oil
-- 1 cup warm water
+- 3 cups flour (360g)
+- 1 teaspoon salt (6g)
+- 1 teaspoon baking powder (4g)
+- $\frac{1}{3}$ cup vegetable oil (66g)
+- 1 cup warm water (227g)
 
 ## Steps:
 1. Combine flour, salt and baking powder in mixing bowl. Add oil and water. Mix until dough is smooth.
