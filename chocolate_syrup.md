@@ -4,11 +4,12 @@
 **Makes:** 2 cups
 
 ## Ingredients:
-- $\frac{3}{4}$ Cup Cocoa Powder (76g)
-- 1 Cup Sugar (210g)
-- 1 Cup Water 
+- $\frac{1}{2}$ Cup Cocoa Powder (42g)
+- 1 Cup Sugar (198g)
+- 1 Cup Water
 - $\frac{1}{8}$ Teaspoon Kosher Salt
 - 1 Teaspoon Vanilla Extract
+
 
 ## Steps:
 1. Whisk together cocoa powder, sugar, and water.
@@ -16,3 +17,7 @@
 3. Simmer for 3 minutes stirring constantly.
 4. Remove from heat.
 5. Whisk in salt and vanilla.
+
+## Variants
+- mocha: use coffee instead of water
+- mint or orange extract instead of vanilla 
