@@ -20,4 +20,5 @@
 
 ## Variants
 - mocha: use coffee instead of water
-- mint or orange extract instead of vanilla 
+- mint or orange extract instead of vanilla
+- Reese's: blend in a tablespoon of peanut butter 
