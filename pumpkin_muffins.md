@@ -4,16 +4,16 @@
 **Serves:** 24
 
 ## Ingredients:
-- 3 Cups Sugar
-- 1 Cup Vegetable Oil
+- 3 Cups Sugar (594g)
+- 1 Cup Vegetable Oil (198g)
 - 4 Eggs
-- 1$\frac{1}{2}$ Teaspoons Salt
+- 1$\frac{1}{2}$ Teaspoons Salt (9g)
 - 1 Teaspoon Cinnamon
-- $\frac{2}{3}$ Cup Water
+- $\frac{2}{3}$ Cup Water (151g)
 - 2 Cups Pumpkin (1 Can)
-- 3$\frac{1}{2}$ Cups Flour
-- 2 Teaspoons Baking Soda
-- 1$\frac{1}{2}$ Teaspoons Vanilla
+- 3$\frac{1}{2}$ Cups Flour (420g)
+- 2 Teaspoons Baking Soda (12g)
+- 1$\frac{1}{2}$ Teaspoons Vanilla (7g)
 
 ## Steps:
 1. Preheat oven to 350$^\circ$F.
