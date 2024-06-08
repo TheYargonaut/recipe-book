@@ -5,12 +5,12 @@
 
 ## Ingredients:
 - $\frac{1}{2}$ Cup (1 stick) Salted Butter
-- 1 Cup Sugar
-- 1 Teaspoon Vanilla Extract
+- 1 Cup Sugar (198g)
+- 1 Teaspoon Vanilla Extract (5g)
 - 2 Eggs
-- $\frac{1}{2}$ Cup All-Purpose Flour
-- $\frac{1}{3}$ Cup Cocoa Powder
-- $\frac{1}{4}$ Teaspoon Baking Powder
+- $\frac{1}{2}$ Cup All-Purpose Flour (60g)
+- $\frac{1}{3}$ Cup Cocoa Powder (28g)
+- $\frac{1}{4}$ Teaspoon Baking Powder (1g)
 - 2 Cups Chocolate Chunks **or** 1 Preparation Chocolate Frosting (Optional)
 
 ## Steps:
