@@ -80,6 +80,7 @@ These recipes use Markdown with LaTeX math notation. For viewing on GitHub, reco
 - [Roasted Cabbage Wedges](roasted_cabbage_wedges.md)
 - [Roasted Cauliflower](roasted_cauliflower.md)
 - [Roll-out Pastry Dough](roll_out_pastry_dough.md)
+- [Salisbury Steak](salisbury_steak.md)
 - [Sandwich Bread](sandwich_bread.md)
 - [Sandwich Cookie Filling](sandwich_cookie_filling.md)
 - [Schmear](schmear.md)
