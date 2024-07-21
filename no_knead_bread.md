@@ -4,10 +4,10 @@
 **Serves:** 30
 
 ## Ingredients:
-- 3 Cups Warm Water
-- 1$\frac{1}{2}$ Teaspoons Salt
-- 6 to 6$\frac{1}{2}$ Cups Flour
-- 1$\frac{1}{2}$ Tablespoons Yeast
+- 3 Cups Warm Water (681g)
+- 1$\frac{1}{2}$ Teaspoons Salt (8g)
+- 6 Cups Flour (720g)
+- 1$\frac{1}{2}$ Tablespoons Yeast (14g)
 
 
 ## Steps:
