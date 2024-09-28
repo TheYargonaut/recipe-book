@@ -4,7 +4,7 @@
 **Makes:** 1/2 Gallon
 
 ## Ingredients:
-- 1$\frac{3}{4}$ Cup Sugar
+- 1$\frac{3}{4}$ Cup Sugar (346g)
 - 8 Cups Water
 - 1$\frac{1}{2}$ Cup Lemon Juice
 
