@@ -6,6 +6,7 @@
 ## Ingredients:
 - 4 Tablespoons Butter
 - 2 Carrot, Diced
+- 2 Celery Sticks, Diced
 - 1 Onion, Diced
 - $1\frac{1}{4}$ Cup Flour
 - 4 Cups Chicken Broth
