@@ -1,13 +1,13 @@
 # Sandwich Bread
 
 **Type:** Ingredient
-**Serves:** ?
+**Makes:** 1 loaf
 
 ## Ingredients:
 *First Phase*
-- 2 Cups Bread Flour
-- 6 Tablespoons Whole Wheat Flour
-- 2$\frac{1}{4}$ Teaspoon (1 Packet) Yeast
+- 2 Cups Bread Flour (240g)
+- 6 Tablespoons Whole Wheat Flour (42g)
+- 2$\frac{1}{4}$ Teaspoon (1 Packet) Yeast (6g)
 - 2 Tablespoons Butter
 - 1 Teaspoon Honey
 - 1$\frac{1}{4}$ Cup Water at ~120$^\circ$F
