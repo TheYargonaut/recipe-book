@@ -9,7 +9,7 @@
 - 2 Teaspoons Salt
 - 1 Tablespoon Shortening
 - 1 Cup and 2 Tablespoons Water
-- 6 Cups Flour
+- 6 Cups Flour (720g)
 - 1 Teaspoon Active Dry Yeast
 
 ## Steps:
