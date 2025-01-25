@@ -11,7 +11,7 @@
 - $\frac{1}{2}$ Cup All-Purpose Flour (60g)
 - $\frac{1}{3}$ Cup Cocoa Powder (28g)
 - $\frac{1}{4}$ Teaspoon Baking Powder (1g)
-- 2 Cups Chocolate Chunks **or** 1 Preparation Chocolate Frosting (Optional)
+- 1 Cup Chocolate Chunks **or** 1 Preparation Chocolate Frosting (Optional)
 
 ## Steps:
 1. Heat oven to 350$^\circ$F.
