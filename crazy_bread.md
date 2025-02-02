@@ -9,7 +9,7 @@
 - $1\frac{1}{4}$ Cup Water
 - 1 Tablespoon Oil
 - 1 Teaspoon Salt
-- 3 Cups Flour
+- 3 Cups Flour (360g)
 - $\frac{1}{4}$ Cup Butter
 - $\frac{1}{2}$ Teaspoon Garlic Powder
 - $\frac{1}{2}$ Cup Grated Parmesan Cheese
