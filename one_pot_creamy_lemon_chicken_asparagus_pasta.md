@@ -7,7 +7,7 @@
 - 1 Pound Asparagus
 - 2 Tablespoons Lemon Juice
 - 1 Pound Boneless, Skinless Chicken Breast
-- $2\frac{1}{4}$ Teaspoons Kosher Salt, divided
+- $2\frac{1}{2}$ Teaspoons Kosher Salt, divided
 - $\frac{1}{4}$ Teaspoon Ground Black Pepper
 - 3 Tablespoons Olive Oil, divided
 - 3 Cups Water
