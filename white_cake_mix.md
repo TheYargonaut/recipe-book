@@ -5,9 +5,9 @@
 
 ## Ingredients:
 ### Mix:
-- $2\frac{3}{4}$ Cup Cake Flour OR $2\frac{1}{2}$ Cup All-Purpose Flour
-- $1\frac{1}{2}$ Cup Sugar
-- 4 Teaspoons Baking Powder
+- $2\frac{3}{4}$ Cup Cake Flour (330g) OR $2\frac{1}{2}$ Cup All-Purpose Flour (300g)
+- $1\frac{1}{2}$ Cup Sugar (297g)
+- 4 Teaspoons Baking Powder (16g)
 - 1 Teaspoon Salt
 - 4 Tablespoons Unsalted Butter
 ### Full Cake:
