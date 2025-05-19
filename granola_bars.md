@@ -18,7 +18,7 @@
 2. Line bottom and sides of a 9-inch square pan with aluminum foil.
 3. Add oats to baking sheet and bake 5 minutes. Stir and bake another 5 minutes.
 4. Combine butter, honey, brown sugar, and vanilla extract in a small saucepan over medium heat. Cook until butter melts and sugar completely dissolves.
-5. Combine oats, butter mixture, and $\frac{1}{4}$ Cup chocolate chips in large bowl.
+5. Combine oats, butter mixture, raisins, and $\frac{1}{4}$ Cup chocolate chips in large bowl.
 6. Transfer oat mixture to lined pan and use rubber spatula to firmly press mixture into pan.
 7. Scatter remaining 2 Tablespoons chocolate chips over top of oat mixture and press in with rubber spatula.
 8. Cover and refrigerate at least 2 hours.
