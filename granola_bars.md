@@ -4,11 +4,14 @@
 **Serves:** 12
 
 ## Ingredients:
-- 2$\frac{1}{2}$ Cups Old Fashioned Rolled Oats
-- $\frac{1}{4}$ Cup Butter, cut into pieces
-- $\frac{1}{4}$ Cup Light Brown Sugar
-- $\frac{1}{2}$ Teaspoon Vanilla Extract
-- $\frac{1}{4}$ Cup + 2 Tablespoons Chocolate Chips
+- 2$\frac{1}{2}$ Cups Old Fashioned Rolled Oats (230g)
+- $\frac{1}{3}$ Cup Honey (113g)
+- $\frac{1}{4}$ Cup Butter, cut into pieces (56g)
+- $\frac{1}{4}$ Cup Light Brown Sugar (50g)
+- $\frac{1}{2}$ Teaspoon Vanilla Extract 
+- $\frac{1}{4}$ Teaspoon Fine Sea Salt
+- $\frac{1}{2}$ Cup Raisins (60g)
+- $\frac{1}{4}$ Cup + 2 Tablespoons Chocolate Chips (65g)
 
 ## Steps:
 1. Preheat oven to 350$^\circ$F.
