@@ -8,7 +8,7 @@
 - 3 Tablespoons Brown Sugar
 - 1 Teaspoon Salt
 - $\frac{1}{4}$ Cup Oil
-- 3 Cups Bread Flour
+- 3 Cups Bread Flour (360g)
 - 2$\frac{1}{2}$ Teaspoons Yeast
 
 ## Steps:
