@@ -4,10 +4,10 @@
 **Serves:** ?
 
 ## Ingredients:
-- 1$\frac{1}{3}$ Cup Flour
+- 1$\frac{1}{3}$ Cup Flour (160g)
 - 1 Teaspoon Baking Powder
 - $\frac{1}{2}$ Teaspoon Salt
-- $\frac{1}{2}$ Cup Milk
+- $\frac{1}{2}$ Cup Milk (113g)
 - 2 Tablespoons Olive Oil
 
 ## Steps:
