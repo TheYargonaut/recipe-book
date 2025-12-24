@@ -4,16 +4,16 @@
 **Serves:** 20
 
 ## Ingredients:
-- 2$\frac{1}{4}$ Cup Flour
+- 2$\frac{1}{4}$ Cup Flour (270g)
 - 2 Teaspoons Ginger
 - 1 Teaspoon Baking Soda
 - $\frac{3}{4}$ Teaspoon Cinnamon
 - $\frac{1}{2}$ Teaspoon Cloves
 - $\frac{3}{4}$ Cup (1$\frac{1}{2}$ sticks) Butter
-- 1 Cup Sugar
+- 1 Cup Sugar (198g)
 - 1 Egg
 - 1 Tablespoon Water
-- $\frac{1}{4}$ Cup Molasses
+- $\frac{1}{4}$ Cup Molasses (85g)
 - 2 Tablespoons Sugar (for rolling)
 
 ## Steps:
