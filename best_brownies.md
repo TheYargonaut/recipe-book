@@ -4,7 +4,7 @@
 **Serves:** 16
 
 ## Ingredients:
-- $\frac{1}{2}$ Cup (1 stick) Salted Butter
+- $\frac{1}{2}$ Cup (1 stick) Salted Butter, softened 
 - 1 Cup Sugar (198g)
 - 1 Teaspoon Vanilla Extract (5g)
 - 2 Eggs
