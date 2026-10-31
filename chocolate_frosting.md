@@ -5,10 +5,10 @@
 
 ## Ingredients:
 - 3 Tablespoons Butter, Softened
-- 3 Tablespoons Cocoa Powder
+- 3 Tablespoons Cocoa Powder (16g)
 - 1 Tablespoon Light Corn Syrup or Honey
 - $\frac{1}{2}$ Teaspoon Vanilla Extract
-- 1 Cup Powdered Sugar
+- 1 Cup Powdered Sugar (113g)
 - 1 to 2 Tablespoons Milk
 
 
